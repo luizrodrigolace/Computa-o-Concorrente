@@ -1,0 +1,339 @@
+Luiz Rodrigo Lacé Rodrigues
+118049873
+
+
+./lab2 500 1
+Tempo inicializacao: 0.003586
+Thread 0
+Tempo de multiplicação: 0.687893
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000289
+
+./lab2 500 1
+Tempo inicializacao: 0.003484
+Tempo de multiplicação: 0.772911
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000303
+
+./lab2 500 1
+Tempo inicializacao: 0.003900
+Tempo de multiplicação: 0.743818
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000316
+
+./lab2 500 1
+Tempo inicializacao: 0.003894
+Tempo de multiplicação: 0.562694
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000302
+
+./lab2 500 1
+Tempo inicializacao: 0.003804
+Tempo de multiplicação: 0.531850
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000301
+
+-------------------- melhor tempo de multiplicação: 0.531850
+
+
+./lab2 500 2
+Tempo inicializacao: 0.003709
+Tempo de multiplicação: 0.477672
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000303
+
+./lab2 500 2
+Tempo inicializacao: 0.003682
+Tempo de multiplicação: 0.300965
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000314
+
+./lab2 500 2
+Tempo inicializacao: 0.004182
+Tempo de multiplicação: 0.349417
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000412
+
+./lab2 500 2
+Tempo inicializacao: 0.003794
+Tempo de multiplicação: 0.308152
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000314
+
+./lab2 500 2
+Tempo inicializacao: 0.003854
+Tempo de multiplicação: 0.360019
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000425
+
+-----------------------melhor tempo de multiplicacao: 0.300965
+Tsequencial/Tconcorrente = (0.531850/0.300965) = 1,767149004 de ganho
+
+./lab2 500 4
+Tempo inicializacao: 0.003894
+Tempo de multiplicação: 0.212413
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000305
+
+./lab2 500 4
+Tempo inicializacao: 0.003838
+Tempo de multiplicação: 0.182161
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000291
+
+./lab2 500 4
+Tempo inicializacao: 0.003777
+Tempo de multiplicação: 0.225294
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000320
+
+./lab2 500 4
+Tempo inicializacao: 0.003751
+Tempo de multiplicação: 0.158712
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000237
+
+./lab2 500 4
+Tempo inicializacao: 0.003833
+Tempo de multiplicação: 0.163291
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.000223
+------------------------------ melhor tempo de multiplicacao:0.158712
+Tsequencial/Tconcorrente = (0.531850/0.158712) = 3,351038359 de ganho
+
+./lab2 1000 1
+Tempo inicializacao: 0.012342
+Tempo de multiplicação: 5.321983
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001384
+
+./lab2 1000 1
+Tempo inicializacao: 0.012016
+Tempo de multiplicação: 5.570586
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001617
+
+./lab2 1000 1
+Tempo inicializacao: 0.012145
+Tempo de multiplicação: 5.336775
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001660
+
+./lab2 1000 1
+Tempo inicializacao: 0.012132
+Tempo de multiplicação: 5.252671
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001448
+
+./lab2 1000 1
+Tempo inicializacao: 0.014630
+Tempo de multiplicação: 5.316803
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001392
+
+---------------melhor tempo de multiplicação:5.252671
+
+./lab2 1000 2
+Tempo inicializacao: 0.013667
+Tempo de multiplicação: 3.129944
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001280
+
+./lab2 1000 2
+Tempo inicializacao: 0.011297
+Tempo de multiplicação: 3.494203
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001279
+
+./lab2 1000 2
+Tempo inicializacao: 0.009907
+Tempo de multiplicação: 3.347686
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001213
+
+./lab2 1000 2
+Tempo inicializacao: 0.014417
+Tempo de multiplicação: 3.267960
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001660
+
+./lab2 1000 2
+Tempo inicializacao: 0.014413
+Tempo de multiplicação: 3.124439
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001508
+
+-------------------melhor tempo de multiplicação:3.124439
+Tsequencial/Tconcorrente = (5.252671/3.124439) = 1,681156521 de ganho
+
+./lab2 1000 4
+Tempo inicializacao: 0.013308
+Tempo de multiplicação: 2.003592
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001722
+
+./lab2 1000 4
+Tempo inicializacao: 0.016334
+Tempo de multiplicação: 2.007503
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001552
+
+./lab2 1000 4
+Tempo inicializacao: 0.013169
+Tempo de multiplicação: 2.099067
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001194
+
+./lab2 1000 4
+Tempo inicializacao: 0.011939
+Tempo de multiplicação: 2.358348
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001560
+
+./lab2 1000 4
+Tempo inicializacao: 0.012236
+Tempo de multiplicação: 2.043935
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.001346
+
+----------------melhor tempo de multiplicação: 2.003592
+Tsequencial/Tconcorrente = (5.252671/2.003592) = 2,621627058 de ganho
+
+
+./lab2 2000 1
+Tempo inicializacao: 0.034002
+Tempo de multiplicação: 46.894002
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.003764
+
+./lab2 2000 1
+Tempo inicializacao: 0.035736
+Tempo de multiplicação: 49.994854
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.003456
+
+./lab2 2000 1
+Tempo inicializacao: 0.036306
+Tempo de multiplicação: 54.262902
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.005332
+
+./lab2 2000 1
+Tempo inicializacao: 0.032067
+Tempo de multiplicação: 53.416851
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.003065
+
+./lab2 2000 1
+Tempo inicializacao: 0.034542
+Tempo de multiplicação: 46.595970
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.003129
+
+--------------------melhor tempo de multiplicação:46.595970
+
+./lab2 2000 2
+Tempo inicializacao: 0.030520
+Tempo de multiplicação: 30.653140
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002889
+
+./lab2 2000 2
+Tempo inicializacao: 0.029942
+Tempo de multiplicação: 24.802752
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002770
+
+./lab2 2000 2
+Tempo inicializacao: 0.033500
+Tempo de multiplicação: 24.631489
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002793
+
+./lab2 2000 2
+Tempo inicializacao: 0.031354
+Tempo de multiplicação: 23.957256
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002785
+
+./lab2 2000 2
+Tempo inicializacao: 0.031241
+Tempo de multiplicação: 24.938658
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002939
+
+----------------------melhor tempo de multiplicação:23.957256
+Tsequencial/Tconcorrente = (46.595970/23.957256) = 1,944962729 de ganho
+
+
+./lab2 2000 4
+Tempo inicializacao: 0.038133
+Tempo de multiplicação: 15.463491
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.003427
+
+./lab2 2000 4
+Tempo inicializacao: 0.041545
+Tempo de multiplicação: 14.962630
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002765
+
+./lab2 2000 4
+Tempo inicializacao: 0.039793
+Tempo de multiplicação: 14.611572
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.002778
+
+./lab2 2000 4
+Tempo inicializacao: 0.033923
+Tempo de multiplicação: 15.890875
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.004191
+
+./lab2 2000 4
+Tempo inicializacao: 0.047021
+Tempo de multiplicação: 16.149611
+SUCESSO: Todos os valores foram perfeitamente calculados
+Tempo de finalizacao: 0.004294
+
+--------------------melhor tempo de multiplicação:14.611572
+Tsequencial/Tconcorrente = (46.595970/14.611572) = 3,188977202 de ganho
+
+
+Conclusão:
+
+Executei o programa 5 vezes para cada dimensão de matriz e numero de thread.
+Foram coletados os melhores tempos de cada execução e feita a comparação do tempo
+sequencial (uma thread) com o tempo de execução concorrente (com duas e quatro threads).
+Os resultados se apresentam coerentes visto que os ganhos para as comparações de tempo
+concorrente com o mesmo numero de theads demonstra ser um numero bem parecido.
+Ganhos para 2 threads para matrizes de dimensão 500,1000 e 2000 respectivamente: (1,76, 1,68 e 1,94).
+Ganhos para 4 threads para matrizes de dimensão 500,1000 e 2000 respectivamente: (3,35, 2,62 e 3,18).
+
+
+
+
+Configuração:
+
+Arquitetura:                     x86_64
+Modo(s) operacional da CPU:      32-bit, 64-bit
+Ordem dos bytes:                 Little Endian
+Address sizes:                   43 bits physical, 48 bits virtual
+CPU(s):                          8
+Lista de CPU(s) on-line:         0-7
+Thread(s) per núcleo:            2
+Núcleo(s) por soquete:           4
+Soquete(s):                      1
+Nó(s) de NUMA:                   1
+ID de fornecedor:                AuthenticAMD
+Família da CPU:                  23
+Modelo:                          24
+Nome do modelo:                  AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+
+
+
+
+
+
+
+
